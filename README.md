@@ -8,7 +8,7 @@ The project is divided into 3 sections.
 
 - First we have a notebook scraping.ipynb which scrapes the data from https://www.amazon.co.uk/
 
-- Second we have a notebook Cleaning.ipynb which cleanes the data
+- Second we have a notebook Cleaning.ipynb which cleans the data
 
 - Thirdly we have a notebook Analysis.ipynb which fits a random forest regressor to the data
 
